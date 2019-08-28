@@ -4,10 +4,10 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class OkrapplicationApplication {
+public class Okrapplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(OkrapplicationApplication.class, args);
+		SpringApplication.run(Okrapplication.class, args);
 	}
 
 }
