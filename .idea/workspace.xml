@@ -1,66 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ee7f8999-08df-414f-9c2c-0ca7250f1cee" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_jayway_jsonpath_json_path_2_4_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_vaadin_external_google_android_json_0_0_20131108_vaadin1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__net_bytebuddy_byte_buddy_agent_1_9_16.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__net_minidev_accessors_smart_1_2.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__net_minidev_json_smart_2_3.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_assertj_assertj_core_3_11_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_library_1_3.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_mockito_mockito_core_2_23_4.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_objenesis_objenesis_2_6.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_ow2_asm_asm_5_0_4.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_skyscreamer_jsonassert_1_5_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_test_2_1_7_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_2_1_7_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_autoconfigure_2_1_7_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_test_5_1_9_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_xmlunit_xmlunit_core_2_6_3.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/okrapplication.iml" beforeDir="false" afterPath="$PROJECT_DIR$/okrapplication.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/xebia/okrapplication/OkrapplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/xebia/okrapplication/OkrapplicationTests.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-archiver/pom.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/okrapplication-0.0.1-SNAPSHOT.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/okrapplication-0.0.1-SNAPSHOT.jar.original" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/xebia/okrapplication/OkrApplicationTests.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/xebia/okrapplication/OkrApplicationTests.class" afterDir="false" />
-    </list>
+    <list default="true" id="21f83105-eb46-41fa-a523-56c3b5664bd4" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-  </component>
-  <component name="MavenImportPreferences">
-    <option name="generalSettings">
-      <MavenGeneralSettings>
-        <option name="mavenHome" value="D:/apache-maven-3.6.1" />
-      </MavenGeneralSettings>
-    </option>
-    <option name="importingSettings">
-      <MavenImportingSettings>
-        <option name="importAutomatically" value="true" />
-      </MavenImportingSettings>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
     </option>
   </component>
-  <component name="ProjectId" id="1PzjOwpokWYjQy67lz4WJTkpR1r" />
-  <component name="ProjectLevelVcsManager">
-    <ConfirmationsSetting value="2" id="Add" />
-  </component>
+  <component name="ProjectId" id="1Q37swjAV6EAyVCvKbqlg8oUnUl" />
   <component name="PropertiesComponent">
-    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-  </component>
-  <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\dev\git\okr-manager-nishant\src\test\java\com\xebia\okrapplication" />
-    </key>
+    <property name="last_opened_file_path" value="C:/dev/git/jpa-exercises" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -74,23 +33,91 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
-    <configuration name="Okrapplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.xebia.okrapplication.Okrapplication" />
-      <module name="okrapplication" />
+  <component name="RunManager" selected="JUnit.KeyResultRepositoryTest">
+    <configuration name="KeyResultRepositoryTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="okr" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.xebia.okrapplication.*" />
+          <option name="PATTERN" value="com.xebia.okr.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="com.xebia.okr" />
+      <option name="MAIN_CLASS_NAME" value="com.xebia.okr.KeyResultRepositoryTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="KeyResultRepositoryTest.should_update_key_result_when_i_provide_valid_data" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="okr" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.xebia.okr.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.xebia.okr" />
+      <option name="MAIN_CLASS_NAME" value="com.xebia.okr.KeyResultRepositoryTest" />
+      <option name="METHOD_NAME" value="should_update_key_result_when_i_provide_valid_data" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ObjectiveRepositoryTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="okr" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.xebia.okr.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.xebia.okr" />
+      <option name="MAIN_CLASS_NAME" value="com.xebia.okr.ObjectiveRepositoryTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PlanRepositoryTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="okr" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.xebia.okr.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.xebia.okr" />
+      <option name="MAIN_CLASS_NAME" value="com.xebia.okr.PlanRepositoryTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PlanRepositoryTest.should_save_plan_when_i_provide_valid_data" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="okr" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.xebia.okr.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.xebia.okr" />
+      <option name="MAIN_CLASS_NAME" value="com.xebia.okr.PlanRepositoryTest" />
+      <option name="METHOD_NAME" value="should_save_plan_when_i_provide_valid_data" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Okrapplication" />
+        <item itemvalue="JUnit.KeyResultRepositoryTest" />
+        <item itemvalue="JUnit.KeyResultRepositoryTest.should_update_key_result_when_i_provide_valid_data" />
+        <item itemvalue="JUnit.ObjectiveRepositoryTest" />
+        <item itemvalue="JUnit.PlanRepositoryTest" />
+        <item itemvalue="JUnit.PlanRepositoryTest.should_save_plan_when_i_provide_valid_data" />
       </list>
     </recent_temporary>
   </component>
@@ -99,61 +126,12 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="ee7f8999-08df-414f-9c2c-0ca7250f1cee" name="Default Changelist" comment="" />
-      <created>1566883791040</created>
+      <changelist id="21f83105-eb46-41fa-a523-56c3b5664bd4" name="Default Changelist" comment="" />
+      <created>1566987635721</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1566883791040</updated>
+      <updated>1566987635721</updated>
     </task>
-    <task id="LOCAL-00001" summary="Pushing the Entity">
-      <created>1566896877520</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1566896877520</updated>
-    </task>
-    <task id="LOCAL-00002" summary="Pushing the Entity">
-      <created>1566904270075</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1566904270075</updated>
-    </task>
-    <task id="LOCAL-00003" summary="Error resolves after copy paste the import">
-      <created>1566966336804</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1566966336804</updated>
-    </task>
-    <task id="LOCAL-00004" summary="Commiting without @Test">
-      <created>1566969312983</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1566969312983</updated>
-    </task>
-    <option name="localTasksCounter" value="5" />
     <servers />
-  </component>
-  <component name="Vcs.Log.Tabs.Properties">
-    <option name="TAB_STATES">
-      <map>
-        <entry key="MAIN">
-          <value>
-            <State>
-              <option name="COLUMN_ORDER" />
-            </State>
-          </value>
-        </entry>
-      </map>
-    </option>
-  </component>
-  <component name="VcsManagerConfiguration">
-    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="Pushing the Entity" />
-    <MESSAGE value="Error resolves after copy paste the import" />
-    <MESSAGE value="Commiting without @Test" />
-    <option name="LAST_COMMIT_MESSAGE" value="Commiting without @Test" />
   </component>
 </project>

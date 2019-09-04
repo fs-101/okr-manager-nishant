@@ -6,16 +6,13 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="okrapplication" />
+        <module name="okr" />
       </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel>
-      <module name="okrapplication" target="1.8" />
-    </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
-      <module name="okrapplication" options="-parameters" />
+      <module name="okr" options="-parameters" />
     </option>
   </component>
 </project>

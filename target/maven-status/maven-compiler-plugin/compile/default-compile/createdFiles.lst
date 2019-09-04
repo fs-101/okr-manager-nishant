@@ -1,4 +1,5 @@
-com\xebia\okrapplication\model\Objective.class
-com\xebia\okrapplication\model\KeyResult.class
-com\xebia\okrapplication\Okrapplication.class
-com\xebia\okrapplication\model\Plan.class
+com\xebia\okr\domain\KeyResult.class
+com\xebia\okr\OkrApplication.class
+com\xebia\okr\domain\KeyResults.class
+com\xebia\okr\domain\Objective.class
+com\xebia\okr\domain\Plan.class
